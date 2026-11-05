@@ -9,3 +9,8 @@ Belajar kelas Belajar Dasar Git dengan GitHub. (Progres 14%)
 Belajar kelas Belajar Dasar Git dengan GitHub. (Progres 29%)
 * Belajar commit, checkout, revert, reset, Git workflow, serta local vs remote repository.
 * Praktik membuat repo, README, release, dan menghubungkan repo lokal ke GitHub.
+
+**5 November 2026**<br>
+Belajar kelas Belajar Dasar Git dengan GitHub. (Progres 43%)
+* Belajar History, releases
+* Praktik membuat repo, README, release.
